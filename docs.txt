@@ -13,3 +13,7 @@ zephir build
 
 5. Enable new extension for php:
 extension=app.so
+
+6. To clean objects before rebuild using:
+zephir clean
+#zephir fullclean
