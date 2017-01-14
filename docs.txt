@@ -1,0 +1,15 @@
+
+1. Check zephir version:
+zephir help
+
+2. Create new project:
+zephir init app
+
+3. Add classes to project
+Create new files and etc.
+
+4. Build our extension:
+zephir build
+
+5. Enable new extension for php:
+extension=app.so
